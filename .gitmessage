@@ -1,16 +1,14 @@
-Type
-# feature, bug-fix, refactor, issue
+Title:
+# Agregar el código de Jira más 
+# el tipo de cambio a integrar: feature, bug-fix, refactor, issue
+# ej. INCJIRA-001 bugfix
 
-########50 characters############################
-Title
-# Write Short title
 
 ########72 characters##################################################
-Problem
-# Describe problem
+Problem:
+# Describe el problema a resolver
 
-Solution
-# Solution or List of Changes
 
-Note
-# Special instructions, testing steps, rake, etc
+Solution:
+# Describe como resolviste el problema, 
+# en un texto o en una lista separada por *
